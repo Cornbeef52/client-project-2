@@ -80,11 +80,34 @@ html {
 #section4 {
 }
 
-#button-color {
-  background-color: #214870;
-  color: #ffffff;
+#button-color-top {
+  background-color: #b0c7be;
+  color: black;
 }
 
+#button-color-low {
+  background-color: #214870;
+  color: white;
+}
 body {
-  background-color: #b0c7be;
+  background-color: #a4a5ae;
+}
+
+.font1 {
+  font-family: "Roboto Mono", monospace;
+  color: #214870;
+}
+
+.font2 {
+  font-family: "Source Code Pro", monospace;
+}
+
+.font3 {
+  font-family: "Kanit", sans-serif;
+  font-family: "Source Code Pro", monospace;
+}
+
+.review {
+  text-align: center;
+  font-family: "Source Code Pro", monospace;
 }
