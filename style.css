@@ -111,3 +111,12 @@ body {
   text-align: center;
   font-family: "Source Code Pro", monospace;
 }
+
+.contact-text {
+  font-family: "Source Code Pro", monospace;
+  color: white;
+}
+
+.drop {
+  font-family: "Bebas Neue", cursive;
+}
